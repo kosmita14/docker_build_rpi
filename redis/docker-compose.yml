@@ -1,0 +1,12 @@
+version: '3'
+services:
+  redis:
+    image: arm32v7/redis
+    container_name: "redis"
+    logging:
+        driver: "${LOGGING_DRIVER:-json-file}"
+    network_mode: "host"
+    ports:
+        - 6379:6379
+#    volumes:
+#        - /var/run/docker.sock:/var/run/docker.sock

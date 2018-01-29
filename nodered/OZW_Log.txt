@@ -1,0 +1,1034 @@
+2019-05-07 23:42:50.662 Always, OpenZwave Version 1.4-3297-g98c3bde5-dirty Starting Up
+2019-05-07 23:42:50.662 Warning, Unable to load Localization file /etc/openzwave/Localization.xml: Failed to open file
+2019-05-07 23:42:50.662 Always, Using Language Localization 
+2019-05-07 23:42:50.662 Warning, Unable to load NotificationCCTypes file /etc/openzwave/NotificationCCTypes.xml
+2019-05-07 23:42:50.663 Info, Setting Up Provided Network Key for Secure Communications
+2019-05-07 23:42:50.664 Warning, Failed - Network Key Not Set
+2019-05-07 23:42:50.693 Warning, Manufacturer_Specific.xml file has no Revision
+2019-05-07 23:42:50.694 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.694 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.695 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.695 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.700 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.701 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.703 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.705 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.709 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.715 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.720 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.721 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.722 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.724 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.728 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.733 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.735 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.735 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.736 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.737 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.739 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.742 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.746 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.747 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.748 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.750 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.752 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.754 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.755 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.757 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.759 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.761 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.768 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.771 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.773 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.773 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.775 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.776 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.778 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.779 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.781 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.783 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.784 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.786 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.787 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.788 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.789 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.790 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.791 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.792 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.794 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.796 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.798 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.801 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.804 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.806 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.807 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.809 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.810 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.812 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.814 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.816 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.819 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.823 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.824 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.825 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.826 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.827 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.829 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.829 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.830 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.831 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.831 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.834 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.835 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.837 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.838 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.840 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.840 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.842 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.844 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.846 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.849 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.849 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.849 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.850 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.851 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.852 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.853 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.854 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.855 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.856 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.857 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.858 Info, Error in Product Config file at line 4 - missing Revision  attribute
+2019-05-07 23:42:50.859 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.860 Info, Error in Product Config file at line 4 - missing Revision  attribute
+2019-05-07 23:42:50.861 Info, Error in Product Config file at line 1 - missing Revision  attribute
+2019-05-07 23:42:50.862 Info, Error in Product Config file at line 1 - missing Revision  attribute
+2019-05-07 23:42:50.864 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.865 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.866 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.867 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.868 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.868 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.870 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.870 Info, Error in Product Config file at line 4 - missing Revision  attribute
+2019-05-07 23:42:50.871 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.872 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.873 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.874 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.875 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.877 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.879 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.882 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.885 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.888 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.890 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.893 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.895 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.898 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.900 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.903 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.905 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.917 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.919 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.922 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.923 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.924 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.926 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.927 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.929 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.932 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.935 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:50.937 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.939 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.941 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.942 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.944 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.947 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.949 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.955 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.958 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.960 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.963 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.966 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.968 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.971 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.974 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.981 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.987 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.991 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.996 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:50.999 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.001 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.004 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.007 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.010 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.018 Info, Error in Product Config file at line 5 - missing Revision  attribute
+2019-05-07 23:42:51.021 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.022 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.023 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.025 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.027 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.028 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.031 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.033 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.035 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.036 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.037 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.038 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.039 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.040 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.041 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.042 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.043 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.043 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.044 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.045 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.045 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.045 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.045 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.046 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.047 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.048 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.049 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.050 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.051 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.052 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.053 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.054 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.054 Info, Unable to load config file /etc/openzwave/mcohome\mhs513.xml
+2019-05-07 23:42:51.055 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.056 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.060 Info, Error in Product Config file at line 1 - missing Revision  attribute
+2019-05-07 23:42:51.062 Info, Error in Product Config file at line 1 - missing Revision  attribute
+2019-05-07 23:42:51.065 Info, Error in Product Config file at line 1 - missing Revision  attribute
+2019-05-07 23:42:51.066 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.067 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.068 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.071 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.075 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.078 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.081 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.082 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.083 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.085 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.086 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.089 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.090 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.092 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.092 Info, Unable to load config file /etc/openzwave/popp/POP009303.xml
+2019-05-07 23:42:51.093 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.094 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.095 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.097 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.102 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.104 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.108 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.109 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.113 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.116 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.118 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.121 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.124 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.126 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.129 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.130 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.132 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.133 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.134 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.135 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.136 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.137 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.137 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.140 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.141 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.142 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.143 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.144 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.145 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.146 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.148 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.160 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.170 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.179 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.181 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.182 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.187 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.188 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.189 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.191 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.193 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.194 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.195 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.196 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.201 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.207 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.207 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.208 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.208 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.208 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.209 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.209 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.210 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.211 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.211 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.212 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.212 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.212 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.212 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.213 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.213 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.214 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.214 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.221 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.224 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.227 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.229 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.232 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.232 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.232 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.238 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.242 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.246 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.247 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.249 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.250 Info, Error in Product Config file at line 2 - missing Revision  attribute
+2019-05-07 23:42:51.251 Info, Error in Product Config file at line 3 - missing Revision  attribute
+2019-05-07 23:42:51.253 Info, Queuing Lookup on mfs.db.openzwave.com for Node 0
+2019-05-07 23:42:51.253 Info,   Opening controller /dev/ttyACM0
+2019-05-07 23:42:51.253 Info, Trying to open serial port /dev/ttyACM0 (attempt 1)
+2019-05-07 23:42:51.253 Info, Starting DNSThread
+2019-05-07 23:42:51.254 Info, mgr,     Added driver for controller /dev/ttyACM0
+2019-05-07 23:42:51.254 Info, LookupTxT Checking mfs.db.openzwave.com
+2019-05-07 23:42:51.254 Info, Timer: thread starting
+2019-05-07 23:42:51.255 Detail, Timer: waiting with timeout -1 ms
+2019-05-07 23:42:51.255 Info, Serial port /dev/ttyACM0 opened (attempt 1)
+2019-05-07 23:42:51.255 Detail, contrlr, Queuing (Command) FUNC_ID_ZW_GET_VERSION: 0x01, 0x03, 0x00, 0x15, 0xe9
+2019-05-07 23:42:51.255 Detail, contrlr, Queuing (Command) FUNC_ID_ZW_MEMORY_GET_ID: 0x01, 0x03, 0x00, 0x20, 0xdc
+2019-05-07 23:42:51.255 Detail, contrlr, Queuing (Command) FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES: 0x01, 0x03, 0x00, 0x05, 0xf9
+2019-05-07 23:42:51.255 Detail, contrlr, Queuing (Command) FUNC_ID_SERIAL_API_GET_CAPABILITIES: 0x01, 0x03, 0x00, 0x07, 0xfb
+2019-05-07 23:42:51.255 Detail, contrlr, Queuing (Command) FUNC_ID_ZW_GET_SUC_NODE_ID: 0x01, 0x03, 0x00, 0x56, 0xaa
+2019-05-07 23:42:51.862 Info, Lookup for mfs.db.openzwave.com returned 16
+2019-05-07 23:42:51.862 Warning, Config Revision of ManufacturerSpecific Database is out of date
+2019-05-07 23:42:51.862 Info, Queuing download for http://download.db.openzwave.com/mfs.xml
+2019-05-07 23:42:51.863 Warning, File Removal failed: /etc/openzwave/manufacturer_specific.xml
+2019-05-07 23:42:51.863 Warning, File Transfer Failed. Could not Rotate Existing File: /etc/openzwave/manufacturer_specific.xml
+2019-05-07 23:42:51.863 Warning, Can't download ManufacturerSpecifix.xml Config file
+2019-05-07 23:42:51.863 Info, ManufacturerSpecificDB Initialized
+2019-05-07 23:42:51.864 Detail, Notification: User Alert - Manufacturer_specific.xml out of Date
+2019-05-07 23:42:51.864 Detail, Notification: A Config File Failed to download
+2019-05-07 23:42:51.864 Detail, Notification: ManufacturerSpecificDB Ready
+2019-05-07 23:42:51.864 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x00, 0xa1, 0x46
+2019-05-07 23:42:51.864 Detail, 
+2019-05-07 23:42:51.864 Detail, 
+2019-05-07 23:42:51.864 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x15) - FUNC_ID_ZW_GET_VERSION: 0x01, 0x03, 0x00, 0x15, 0xe9
+2019-05-07 23:42:51.864 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.866 Detail, contrlr,   Received: 0x01, 0x10, 0x01, 0x15, 0x5a, 0x2d, 0x57, 0x61, 0x76, 0x65, 0x20, 0x33, 0x2e, 0x39, 0x35, 0x00, 0x01, 0x99
+2019-05-07 23:42:51.866 Detail, 
+2019-05-07 23:42:51.866 Info, contrlr, Received reply to FUNC_ID_ZW_GET_VERSION:
+2019-05-07 23:42:51.867 Info, contrlr,     Static Controller library, version Z-Wave 3.95
+2019-05-07 23:42:51.867 Detail, Node045,   Expected reply was received
+2019-05-07 23:42:51.867 Detail, Node045,   Message transaction complete
+2019-05-07 23:42:51.867 Detail, 
+2019-05-07 23:42:51.867 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.867 Detail, 
+2019-05-07 23:42:51.867 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x20) - FUNC_ID_ZW_MEMORY_GET_ID: 0x01, 0x03, 0x00, 0x20, 0xdc
+2019-05-07 23:42:51.867 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.869 Detail, contrlr,   Received: 0x01, 0x08, 0x01, 0x20, 0xcf, 0x13, 0x70, 0xed, 0x01, 0x96
+2019-05-07 23:42:51.869 Detail, 
+2019-05-07 23:42:51.869 Info, contrlr, Received reply to FUNC_ID_ZW_MEMORY_GET_ID. Home ID = 0xcf1370ed.  Our node ID = 1
+2019-05-07 23:42:51.877 Detail, Node019,   Expected reply was received
+2019-05-07 23:42:51.877 Detail, Node019,   Message transaction complete
+2019-05-07 23:42:51.877 Detail, 
+2019-05-07 23:42:51.877 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.878 Detail, 
+2019-05-07 23:42:51.878 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x05) - FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES: 0x01, 0x03, 0x00, 0x05, 0xf9
+2019-05-07 23:42:51.878 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.879 Detail, contrlr,   Received: 0x01, 0x04, 0x01, 0x05, 0x08, 0xf7
+2019-05-07 23:42:51.879 Detail, 
+2019-05-07 23:42:51.879 Info, contrlr, Received reply to FUNC_ID_ZW_GET_CONTROLLER_CAPABILITIES:
+2019-05-07 23:42:51.879 Info, contrlr,     There is no SUC ID Server (SIS) in this network.
+2019-05-07 23:42:51.879 Info, contrlr,     The PC controller is a primary controller.
+2019-05-07 23:42:51.879 Detail, Node247,   Expected reply was received
+2019-05-07 23:42:51.879 Detail, Node247,   Message transaction complete
+2019-05-07 23:42:51.880 Detail, 
+2019-05-07 23:42:51.880 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.880 Detail, 
+2019-05-07 23:42:51.880 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x07) - FUNC_ID_SERIAL_API_GET_CAPABILITIES: 0x01, 0x03, 0x00, 0x07, 0xfb
+2019-05-07 23:42:51.880 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.883 Detail, contrlr,   Received: 0x01, 0x2b, 0x01, 0x07, 0x01, 0x00, 0x00, 0x86, 0x00, 0x01, 0x00, 0x5a, 0xfe, 0x81, 0xff, 0x88, 0x4f, 0x1f, 0x00, 0x00, 0xfb, 0x9f, 0x7d, 0xa0, 0x67, 0x00, 0x00, 0x80, 0x00, 0x80, 0x86, 0x00, 0x00, 0x00, 0xe8, 0x73, 0x00, 0x00, 0x0e, 0x00, 0x00, 0x60, 0x00, 0x00, 0xfb
+2019-05-07 23:42:51.884 Detail, 
+2019-05-07 23:42:51.884 Info, contrlr,  Received reply to FUNC_ID_SERIAL_API_GET_CAPABILITIES
+2019-05-07 23:42:51.884 Info, contrlr,     Serial API Version:   1.0
+2019-05-07 23:42:51.884 Info, contrlr,     Manufacturer ID:      0x0086
+2019-05-07 23:42:51.884 Info, contrlr,     Product Type:         0x0001
+2019-05-07 23:42:51.884 Info, contrlr,     Product ID:           0x005a
+2019-05-07 23:42:51.884 Detail, contrlr, Queuing (Command) FUNC_ID_ZW_GET_RANDOM: 0x01, 0x04, 0x00, 0x1c, 0x20, 0xc7
+2019-05-07 23:42:51.884 Detail, contrlr, Queuing (Command) FUNC_ID_SERIAL_API_GET_INIT_DATA: 0x01, 0x03, 0x00, 0x02, 0xfe
+2019-05-07 23:42:51.884 Detail, contrlr, Queuing (Command) FUNC_ID_SERIAL_API_SET_TIMEOUTS: 0x01, 0x05, 0x00, 0x06, 0x64, 0x0f, 0x97
+2019-05-07 23:42:51.884 Detail, contrlr, Queuing (Command) FUNC_ID_SERIAL_API_APPL_NODE_INFORMATION: 0x01, 0x08, 0x00, 0x03, 0x01, 0x02, 0x01, 0x01, 0x5e, 0xa9
+2019-05-07 23:42:51.884 Detail,   Expected reply was received
+2019-05-07 23:42:51.884 Detail,   Message transaction complete
+2019-05-07 23:42:51.884 Detail, 
+2019-05-07 23:42:51.884 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.884 Detail, 
+2019-05-07 23:42:51.884 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x56) - FUNC_ID_ZW_GET_SUC_NODE_ID: 0x01, 0x03, 0x00, 0x56, 0xaa
+2019-05-07 23:42:51.884 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.886 Detail, contrlr,   Received: 0x01, 0x04, 0x01, 0x56, 0x00, 0xac
+2019-05-07 23:42:51.886 Detail, 
+2019-05-07 23:42:51.886 Info, contrlr, Received reply to GET_SUC_NODE_ID.  Node ID = 0
+2019-05-07 23:42:51.886 Info, Controller Does not Support SUC - Cannot Setup Controller as SUC Node
+2019-05-07 23:42:51.886 Detail, Node172,   Expected reply was received
+2019-05-07 23:42:51.886 Detail, Node172,   Message transaction complete
+2019-05-07 23:42:51.886 Detail, 
+2019-05-07 23:42:51.886 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.886 Detail, 
+2019-05-07 23:42:51.886 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x1c) - FUNC_ID_ZW_GET_RANDOM: 0x01, 0x04, 0x00, 0x1c, 0x20, 0xc7
+2019-05-07 23:42:51.887 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:51.942 Detail, contrlr,   Received: 0x01, 0x25, 0x01, 0x1c, 0x01, 0x20, 0x3f, 0x8f, 0x96, 0xc4, 0xfc, 0xe8, 0xfa, 0xf1, 0x42, 0x9a, 0xae, 0xca, 0x6a, 0x8f, 0x23, 0x36, 0x7b, 0x7e, 0x31, 0xd7, 0x5d, 0x31, 0x0e, 0x6d, 0x64, 0xd1, 0xbc, 0xb6, 0xa4, 0x70, 0xb4, 0x81, 0xe5
+2019-05-07 23:42:51.942 Detail, 
+2019-05-07 23:42:51.942 Info, Received reply to FUNC_ID_ZW_GET_RANDOM: true
+2019-05-07 23:42:51.942 Detail, Node032,   Expected reply was received
+2019-05-07 23:42:51.942 Detail, Node032,   Message transaction complete
+2019-05-07 23:42:51.942 Detail, 
+2019-05-07 23:42:51.942 Detail, contrlr, Removing current message
+2019-05-07 23:42:51.942 Detail, 
+2019-05-07 23:42:51.942 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x02) - FUNC_ID_SERIAL_API_GET_INIT_DATA: 0x01, 0x03, 0x00, 0x02, 0xfe
+2019-05-07 23:42:51.942 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:52.044 Detail, contrlr,   Received: 0x01, 0x25, 0x01, 0x02, 0x05, 0x00, 0x1d, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x05, 0x00, 0x3b
+2019-05-07 23:42:52.044 Detail, 
+2019-05-07 23:42:52.044 Info, mgr,     Driver with Home ID of 0xcf1370ed is now ready.
+2019-05-07 23:42:52.044 Info, 
+2019-05-07 23:42:52.046 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.046 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.054 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:42:52.054 Info, Node001, (COMMAND_CLASS_BASIC) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.054 Info, Node001, 	 CreateVars: true *
+2019-05-07 23:42:52.054 Info, Node001, 	 ForceVersion: 0 *
+2019-05-07 23:42:52.054 Info, Node001, 	 GetSupported: true *
+2019-05-07 23:42:52.054 Info, Node001, 	 IgnoreMapping: false *
+2019-05-07 23:42:52.054 Info, Node001, 	 Mapping: 0 *
+2019-05-07 23:42:52.054 Info, Node001, 	 OverridePrecision: 0 *
+2019-05-07 23:42:52.054 Info, Node001, 	 RefreshOnWakeup: false *
+2019-05-07 23:42:52.054 Info, Node001, 	 SetAsReport: false *
+2019-05-07 23:42:52.054 Info, Node001, (COMMAND_CLASS_BASIC) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.054 Info, Node001, 	 AfterMark: true *
+2019-05-07 23:42:52.054 Info, Node001, 	 CCVersion: 1 *
+2019-05-07 23:42:52.054 Info, Node001, 	 Encrypted: false *
+2019-05-07 23:42:52.054 Info, Node001, 	 InNif: false *
+2019-05-07 23:42:52.054 Info, Node001, 	 StaticRequests: 0 *
+2019-05-07 23:42:52.054 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 30 - No Help Entry for CommandClass 32, ValueID: 0 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.054 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 112 (COMMAND_CLASS_CONFIGURATION)
+2019-05-07 23:42:52.055 Info, Node001, (COMMAND_CLASS_CONFIGURATION) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.055 Info, Node001, 	 CreateVars: true *
+2019-05-07 23:42:52.055 Info, Node001, 	 ForceVersion: 0 *
+2019-05-07 23:42:52.055 Info, Node001, 	 GetSupported: true *
+2019-05-07 23:42:52.055 Info, Node001, 	 OverridePrecision: 0 *
+2019-05-07 23:42:52.055 Info, Node001, 	 RefreshOnWakeup: false *
+2019-05-07 23:42:52.055 Info, Node001, (COMMAND_CLASS_CONFIGURATION) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.055 Info, Node001, 	 AfterMark: false *
+2019-05-07 23:42:52.055 Info, Node001, 	 CCVersion: 1 *
+2019-05-07 23:42:52.055 Info, Node001, 	 Encrypted: false *
+2019-05-07 23:42:52.055 Info, Node001, 	 InNif: false *
+2019-05-07 23:42:52.055 Info, Node001, 	 StaticRequests: 0 *
+2019-05-07 23:42:52.055 Warning, Value size is invalid (0). Only 1, 2 & 4 supported for node 1, class 0x70, instance 1, index 252
+2019-05-07 23:42:52.055 Info, Node001, (COMMAND_CLASS_MANUFACTURER_SPECIFIC) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.055 Info, Node001, 	 CreateVars: true *
+2019-05-07 23:42:52.055 Info, Node001, 	 ForceVersion: 0 *
+2019-05-07 23:42:52.056 Info, Node001, 	 GetSupported: true *
+2019-05-07 23:42:52.056 Info, Node001, 	 OverridePrecision: 0 *
+2019-05-07 23:42:52.056 Info, Node001, 	 RefreshOnWakeup: false *
+2019-05-07 23:42:52.056 Info, Node001, (COMMAND_CLASS_MANUFACTURER_SPECIFIC) - Compatibility Flags: (* = default)
+2019-05-07 23:42:52.056 Info, Node001, 	 AfterMark: false *
+2019-05-07 23:42:52.056 Info, Node001, 	 CCVersion: 1 *
+2019-05-07 23:42:52.056 Info, Node001, 	 Encrypted: false *
+2019-05-07 23:42:52.056 Info, Node001, 	 InNif: false *
+2019-05-07 23:42:52.056 Info, Node001, 	 StaticRequests: 2 
+2019-05-07 23:42:52.056 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 100 - No Help Entry for CommandClass 114, ValueID: 0 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.056 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 103 - No Help Entry for CommandClass 114, ValueID: 1 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.056 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 106 - No Help Entry for CommandClass 114, ValueID: 2 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.056 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 109 - No Help Entry for CommandClass 114, ValueID: 3 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.056 Warning, Localization::ReadXMLVIDHelp: Error in ozwcache_0xcf1370ed.xml at line 112 - No Help Entry for CommandClass 114, ValueID: 4 (-1):  (null) (Lang: )
+2019-05-07 23:42:52.056 Info, contrlr, Received reply to FUNC_ID_SERIAL_API_GET_INIT_DATA:
+2019-05-07 23:42:52.056 Info, contrlr,     Node 001 - Known
+2019-05-07 23:42:52.057 Detail, Node001, AdvanceQueries queryPending=0 queryRetries=0 queryStage=CacheLoad live=1
+2019-05-07 23:42:52.057 Detail, Node001, QueryStage_CacheLoad
+2019-05-07 23:42:52.057 Info, Node001, Loading Cache for node 1: Manufacturer=Aeotec, Product=Z-Stick Gen5
+2019-05-07 23:42:52.057 Info, Node001, Node Identity Codes: 0086:0001:005a
+2019-05-07 23:42:52.057 Detail, Node001, QueryStage_Associations
+2019-05-07 23:42:52.057 Detail, Node001, QueryStage_Neighbors
+2019-05-07 23:42:52.057 Detail, contrlr, Requesting routing info (neighbor list) for Node 1
+2019-05-07 23:42:52.057 Detail, Node001, Queuing (Command) Get Routing Info (Node=1): 0x01, 0x07, 0x00, 0x80, 0x01, 0x00, 0x00, 0x03, 0x7a
+2019-05-07 23:42:52.057 Detail, Node001, Queuing (Query) Query Stage Complete (Neighbors)
+2019-05-07 23:42:52.057 Info, contrlr,     Node 002 - New
+2019-05-07 23:42:52.057 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.057 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.057 Detail, Node002, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.057 Detail, Node002, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.057 Detail, Node002, Queuing (Query) Get Node Protocol Info (Node=2): 0x01, 0x04, 0x00, 0x41, 0x02, 0xb8
+2019-05-07 23:42:52.057 Detail, Node002, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.057 Info, Node002, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.058 Info, contrlr,     Node 003 - New
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.058 Detail, Node003, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.058 Detail, Node003, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.058 Detail, Node003, Queuing (Query) Get Node Protocol Info (Node=3): 0x01, 0x04, 0x00, 0x41, 0x03, 0xb9
+2019-05-07 23:42:52.058 Detail, Node003, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.058 Info, Node003, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.058 Info, contrlr,     Node 004 - New
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.058 Detail, Node004, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.058 Detail, Node004, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.058 Detail, Node004, Queuing (Query) Get Node Protocol Info (Node=4): 0x01, 0x04, 0x00, 0x41, 0x04, 0xbe
+2019-05-07 23:42:52.058 Detail, Node004, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.058 Info, Node004, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.058 Info, contrlr,     Node 005 - New
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.058 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.058 Detail, Node005, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.058 Detail, Node005, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.059 Detail, Node005, Queuing (Query) Get Node Protocol Info (Node=5): 0x01, 0x04, 0x00, 0x41, 0x05, 0xbf
+2019-05-07 23:42:52.059 Detail, Node005, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.059 Info, Node005, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.059 Info, contrlr,     Node 006 - New
+2019-05-07 23:42:52.059 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.059 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.059 Detail, Node006, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.059 Detail, Node006, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.059 Detail, Node006, Queuing (Query) Get Node Protocol Info (Node=6): 0x01, 0x04, 0x00, 0x41, 0x06, 0xbc
+2019-05-07 23:42:52.059 Detail, Node006, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.059 Info, Node006, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.059 Info, contrlr,     Node 007 - New
+2019-05-07 23:42:52.059 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.059 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.059 Detail, Node007, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.059 Detail, Node007, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.059 Detail, Node007, Queuing (Query) Get Node Protocol Info (Node=7): 0x01, 0x04, 0x00, 0x41, 0x07, 0xbd
+2019-05-07 23:42:52.060 Detail, Node007, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.060 Info, Node007, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.060 Info, contrlr,     Node 008 - New
+2019-05-07 23:42:52.060 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 0 (COMMAND_CLASS_NO_OPERATION)
+2019-05-07 23:42:52.060 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 114 (COMMAND_CLASS_MANUFACTURER_SPECIFIC)
+2019-05-07 23:42:52.060 Detail, Node008, AdvanceQueries queryPending=0 queryRetries=0 queryStage=None live=1
+2019-05-07 23:42:52.060 Detail, Node008, QueryStage_ProtocolInfo
+2019-05-07 23:42:52.060 Detail, Node008, Queuing (Query) Get Node Protocol Info (Node=8): 0x01, 0x04, 0x00, 0x41, 0x08, 0xb2
+2019-05-07 23:42:52.060 Detail, Node008, Queuing (Query) Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.060 Info, Node008, Initializing Node. New Node: false (false)
+2019-05-07 23:42:52.060 Detail,   Expected reply was received
+2019-05-07 23:42:52.060 Detail,   Message transaction complete
+2019-05-07 23:42:52.060 Detail, 
+2019-05-07 23:42:52.060 Detail, contrlr, Removing current message
+2019-05-07 23:42:52.061 Detail, Node001, Notification: DriverReady
+2019-05-07 23:42:52.061 Detail, Node001, Notification: NodeAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: NodeProtocolInfo
+2019-05-07 23:42:52.061 Detail, Node001, Notification: EssentialNodeQueriesComplete
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: ValueAdded
+2019-05-07 23:42:52.061 Detail, Node001, Notification: NodeNaming
+2019-05-07 23:42:52.061 Detail, Node002, Notification: NodeNew
+2019-05-07 23:42:52.061 Detail, Node002, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node003, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node003, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node004, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node004, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node005, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node005, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node006, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node006, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node007, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node007, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, Node008, Notification: NodeNew
+2019-05-07 23:42:52.062 Detail, Node008, Notification: NodeAdded
+2019-05-07 23:42:52.062 Detail, 
+2019-05-07 23:42:52.062 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x06) - FUNC_ID_SERIAL_API_SET_TIMEOUTS: 0x01, 0x05, 0x00, 0x06, 0x64, 0x0f, 0x97
+2019-05-07 23:42:52.062 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:52.063 Detail, Unsolicited message received while waiting for ACK.
+2019-05-07 23:42:52.063 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x01, 0xa5, 0x43
+2019-05-07 23:42:52.063 Detail, 
+2019-05-07 23:42:52.063 Info, Node004, ApplicationCommandHandler - Unhandled Command Class 0x31
+2019-05-07 23:42:52.064 Detail, contrlr, CAN received...triggering resend
+2019-05-07 23:42:52.064 Detail, 
+2019-05-07 23:42:52.064 Info, contrlr, Sending (Command) message (Attempt 2, Callback ID=0x00, Expected Reply=0x06) - FUNC_ID_SERIAL_API_SET_TIMEOUTS: 0x01, 0x05, 0x00, 0x06, 0x64, 0x0f, 0x97
+2019-05-07 23:42:52.065 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:52.066 Detail, contrlr,   Received: 0x01, 0x05, 0x01, 0x06, 0x96, 0x0f, 0x64
+2019-05-07 23:42:52.066 Detail, 
+2019-05-07 23:42:52.066 Info, contrlr, Received reply to FUNC_ID_SERIAL_API_SET_TIMEOUTS
+2019-05-07 23:42:52.066 Detail, Node015,   Expected reply was received
+2019-05-07 23:42:52.066 Detail, Node015,   Message transaction complete
+2019-05-07 23:42:52.066 Detail, 
+2019-05-07 23:42:52.066 Detail, contrlr, Removing current message
+2019-05-07 23:42:52.066 Detail, 
+2019-05-07 23:42:52.066 Info, contrlr, Sending (Command) message (Callback ID=0x00, Expected Reply=0x00) - FUNC_ID_SERIAL_API_APPL_NODE_INFORMATION: 0x01, 0x08, 0x00, 0x03, 0x01, 0x02, 0x01, 0x01, 0x5e, 0xa9
+2019-05-07 23:42:52.066 Info, contrlr, Encrypted Flag is 0
+2019-05-07 23:42:52.069 Detail, contrlr, Removing current message
+2019-05-07 23:42:52.069 Detail, 
+2019-05-07 23:42:52.069 Info, Node001, Sending (Command) message (Callback ID=0x00, Expected Reply=0x80) - Get Routing Info (Node=1): 0x01, 0x07, 0x00, 0x80, 0x01, 0x00, 0x00, 0x03, 0x7a
+2019-05-07 23:42:52.069 Info, Node001, Encrypted Flag is 0
+2019-05-07 23:42:52.073 Detail, Node001,   Received: 0x01, 0x20, 0x01, 0x80, 0xfe, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xa0
+2019-05-07 23:42:52.073 Detail, 
+2019-05-07 23:42:52.073 Info, Node001, Received reply to FUNC_ID_ZW_GET_ROUTING_INFO
+2019-05-07 23:42:52.073 Info, Node001,     Neighbors of this node are:
+2019-05-07 23:42:52.073 Info, Node001,     Node 2
+2019-05-07 23:42:52.073 Info, Node001,     Node 3
+2019-05-07 23:42:52.074 Info, Node001,     Node 4
+2019-05-07 23:42:52.074 Info, Node001,     Node 5
+2019-05-07 23:42:52.074 Info, Node001,     Node 6
+2019-05-07 23:42:52.074 Info, Node001,     Node 7
+2019-05-07 23:42:52.074 Info, Node001,     Node 8
+2019-05-07 23:42:52.074 Detail,   Expected reply was received
+2019-05-07 23:42:52.074 Detail,   Message transaction complete
+2019-05-07 23:42:52.074 Detail, 
+2019-05-07 23:42:52.074 Detail, Node001, Removing current message
+2019-05-07 23:42:52.074 Detail, Node001, Query Stage Complete (Neighbors)
+2019-05-07 23:42:52.074 Detail, Node001, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Session live=1
+2019-05-07 23:42:52.074 Detail, Node001, QueryStage_Session
+2019-05-07 23:42:52.074 Detail, Node001, QueryStage_Dynamic
+2019-05-07 23:42:52.074 Detail, Node001, QueryStage_Configuration
+2019-05-07 23:42:52.074 Detail, Node001, QueryStage_Complete
+2019-05-07 23:42:52.074 Warning, CheckCompletedNodeQueries m_allNodesQueried=0 m_awakeNodesQueried=0
+2019-05-07 23:42:52.074 Warning, CheckCompletedNodeQueries all=0, deadFound=0 sleepingOnly=0
+2019-05-07 23:42:52.074 Info, Saving Cache
+2019-05-07 23:42:52.075 Info, Node001, Cache Save for Node 1 as its QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node002, Skipping Cache Save for Node 2 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node003, Skipping Cache Save for Node 3 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node004, Skipping Cache Save for Node 4 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node005, Skipping Cache Save for Node 5 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node006, Skipping Cache Save for Node 6 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node007, Skipping Cache Save for Node 7 as its not QueryStage_Complete
+2019-05-07 23:42:52.075 Info, Node008, Skipping Cache Save for Node 8 as its not QueryStage_Complete
+2019-05-07 23:42:52.078 Detail, Node001, Notification: NodeQueriesComplete
+2019-05-07 23:42:52.078 Detail, 
+2019-05-07 23:42:52.078 Info, Node002, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=2): 0x01, 0x04, 0x00, 0x41, 0x02, 0xb8
+2019-05-07 23:42:52.078 Info, Node002, Encrypted Flag is 0
+2019-05-07 23:42:52.080 Detail, Node002,   Received: 0x01, 0x09, 0x01, 0x41, 0xd3, 0x9c, 0x01, 0x04, 0x10, 0x01, 0xed
+2019-05-07 23:42:52.080 Detail, 
+2019-05-07 23:42:52.080 Info, Node002, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:42:52.080 Info, Node002,   Protocol Info for Node 2:
+2019-05-07 23:42:52.080 Info, Node002,     Listening     = true
+2019-05-07 23:42:52.080 Info, Node002,     Beaming       = true
+2019-05-07 23:42:52.080 Info, Node002,     Routing       = true
+2019-05-07 23:42:52.080 Info, Node002,     Max Baud Rate = 40000
+2019-05-07 23:42:52.080 Info, Node002,     Version       = 4
+2019-05-07 23:42:52.080 Info, Node002,     Security      = false
+2019-05-07 23:42:52.096 Info, Node002,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:42:52.097 Info, Node002,   Generic device Class  (0x10) - Binary Switch
+2019-05-07 23:42:52.097 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:42:52.097 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 37 (COMMAND_CLASS_SWITCH_BINARY)
+2019-05-07 23:42:52.097 Info, Node002,   Specific device class (0x01) - Binary Power Switch
+2019-05-07 23:42:52.097 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 39 (COMMAND_CLASS_SWITCH_ALL)
+2019-05-07 23:42:52.097 Info, Node002,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:42:52.097 Info, Node002,   Mandatory Command Classes for Node 2:
+2019-05-07 23:42:52.097 Info, Node002,     COMMAND_CLASS_BASIC
+2019-05-07 23:42:52.097 Info, Node002,     COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:42:52.097 Info, Node002,     COMMAND_CLASS_SWITCH_ALL
+2019-05-07 23:42:52.097 Info, Node002,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:42:52.097 Info, Node002,   Mandatory Command Classes controlled by Node 2:
+2019-05-07 23:42:52.097 Info, Node002,     None
+2019-05-07 23:42:52.097 Detail, Node156,   Expected reply was received
+2019-05-07 23:42:52.097 Detail, Node156,   Message transaction complete
+2019-05-07 23:42:52.097 Detail, 
+2019-05-07 23:42:52.098 Detail, Node002, Removing current message
+2019-05-07 23:42:52.098 Detail, Node002, Notification: NodeProtocolInfo
+2019-05-07 23:42:52.098 Detail, Node002, Notification: ValueAdded
+2019-05-07 23:42:52.098 Detail, Node002, Notification: ValueAdded
+2019-05-07 23:42:52.098 Detail, Node002, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:52.098 Detail, Node002, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:42:52.098 Detail, Node002, QueryStage_Probe
+2019-05-07 23:42:52.098 Info, Node002, NoOperation::Set - Routing=true
+2019-05-07 23:42:52.098 Detail, Node002, Queuing (NoOp) NoOperation_Set (Node=2): 0x01, 0x09, 0x00, 0x13, 0x02, 0x02, 0x00, 0x00, 0x25, 0x0a, 0xca
+2019-05-07 23:42:52.098 Detail, Node002, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:42:52.098 Detail, 
+2019-05-07 23:42:52.098 Info, Node002, Sending (NoOp) message (Callback ID=0x0a, Expected Reply=0x13) - NoOperation_Set (Node=2): 0x01, 0x09, 0x00, 0x13, 0x02, 0x02, 0x00, 0x00, 0x25, 0x0a, 0xca
+2019-05-07 23:42:52.098 Info, Node002, Encrypted Flag is 0
+2019-05-07 23:42:52.109 Detail, Node002,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:42:52.109 Detail, Node002,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:42:53.051 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x00, 0x8f, 0x68
+2019-05-07 23:42:53.051 Detail, 
+2019-05-07 23:42:53.051 Info, Node004, ApplicationCommandHandler - Unhandled Command Class 0x31
+2019-05-07 23:42:55.050 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x01, 0x09, 0xef
+2019-05-07 23:42:55.050 Detail, 
+2019-05-07 23:42:55.051 Info, Node004, ApplicationCommandHandler - Unhandled Command Class 0x31
+2019-05-07 23:42:56.050 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x00, 0x79, 0x9e
+2019-05-07 23:42:56.051 Detail, 
+2019-05-07 23:42:56.069 Info, Node004, ApplicationCommandHandler - Unhandled Command Class 0x31
+2019-05-07 23:42:58.194 Detail, Node002,   Received: 0x01, 0x07, 0x00, 0x13, 0x0a, 0x01, 0x02, 0x61, 0x83
+2019-05-07 23:42:58.194 Detail, Node002,   ZW_SEND_DATA Request with callback ID 0x0a received (expected 0x0a)
+2019-05-07 23:42:58.195 Info, Node002, WARNING: ZW_SEND_DATA failed. No ACK received - device may be asleep.
+2019-05-07 23:42:58.195 Warning, Node002, WARNING: Device is not a sleeping node.
+2019-05-07 23:42:58.195 Info, Node002, QueryStageRetry stage Probe requested stage Probe max 3 retries 0 pending 1
+2019-05-07 23:42:58.195 Detail, Node001,   Expected callbackId was received
+2019-05-07 23:42:58.195 Detail, Node001,   Expected reply was received
+2019-05-07 23:42:58.195 Detail, Node001,   Message transaction complete
+2019-05-07 23:42:58.195 Detail, 
+2019-05-07 23:42:58.195 Detail, Node002, Removing current message
+2019-05-07 23:42:58.195 Detail, Node002, Notification: Notification - NoOperation
+2019-05-07 23:42:58.195 Detail, 
+2019-05-07 23:42:58.196 Info, Node003, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=3): 0x01, 0x04, 0x00, 0x41, 0x03, 0xb9
+2019-05-07 23:42:58.196 Info, Node003, Encrypted Flag is 0
+2019-05-07 23:42:58.198 Detail, Node003,   Received: 0x01, 0x09, 0x01, 0x41, 0x53, 0x9c, 0x01, 0x04, 0x07, 0x01, 0x7a
+2019-05-07 23:42:58.198 Detail, 
+2019-05-07 23:42:58.198 Info, Node003, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:42:58.198 Info, Node003,   Protocol Info for Node 3:
+2019-05-07 23:42:58.198 Info, Node003,     Listening     = false
+2019-05-07 23:42:58.198 Info, Node003,     Frequent      = false
+2019-05-07 23:42:58.198 Info, Node003,     Beaming       = true
+2019-05-07 23:42:58.199 Info, Node003,     Routing       = true
+2019-05-07 23:42:58.199 Info, Node003,     Max Baud Rate = 40000
+2019-05-07 23:42:58.199 Info, Node003,     Version       = 4
+2019-05-07 23:42:58.199 Info, Node003,     Security      = false
+2019-05-07 23:42:58.199 Info, Node003,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:42:58.199 Info, Node003,   Generic device Class  (0x07) - Notification Sensor
+2019-05-07 23:42:58.199 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:42:58.199 Info, Node003,   Specific device class (0x01) - Notification Sensor
+2019-05-07 23:42:58.199 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 132 (COMMAND_CLASS_WAKE_UP)
+2019-05-07 23:42:58.200 Info, Node003,     COMMAND_CLASS_BASIC is not mapped
+2019-05-07 23:42:58.200 Info, Node003,   Mandatory Command Classes for Node 3:
+2019-05-07 23:42:58.200 Info, Node003,     COMMAND_CLASS_BASIC
+2019-05-07 23:42:58.200 Info, Node003,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:42:58.200 Info, Node003,     COMMAND_CLASS_WAKE_UP
+2019-05-07 23:42:58.200 Info, Node003,   Mandatory Command Classes controlled by Node 3:
+2019-05-07 23:42:58.200 Info, Node003,     None
+2019-05-07 23:42:58.200 Detail, Node156,   Expected reply was received
+2019-05-07 23:42:58.200 Detail, Node156,   Message transaction complete
+2019-05-07 23:42:58.200 Detail, 
+2019-05-07 23:42:58.200 Detail, Node003, Removing current message
+2019-05-07 23:42:58.200 Detail, Node003, Notification: NodeProtocolInfo
+2019-05-07 23:42:58.201 Detail, Node003, Notification: ValueAdded
+2019-05-07 23:42:58.201 Detail, Node003, Notification: ValueAdded
+2019-05-07 23:42:58.201 Detail, Node003, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:42:58.201 Detail, Node003, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:42:58.201 Detail, Node003, QueryStage_Probe
+2019-05-07 23:42:58.201 Info, Node003, NoOperation::Set - Routing=true
+2019-05-07 23:42:58.201 Detail, Node003, Queuing (NoOp) NoOperation_Set (Node=3): 0x01, 0x09, 0x00, 0x13, 0x03, 0x02, 0x00, 0x00, 0x25, 0x0b, 0xca
+2019-05-07 23:42:58.201 Detail, Node003, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:42:58.202 Detail, 
+2019-05-07 23:42:58.202 Info, Node003, Sending (NoOp) message (Callback ID=0x0b, Expected Reply=0x13) - NoOperation_Set (Node=3): 0x01, 0x09, 0x00, 0x13, 0x03, 0x02, 0x00, 0x00, 0x25, 0x0b, 0xca
+2019-05-07 23:42:58.202 Info, Node003, Encrypted Flag is 0
+2019-05-07 23:42:58.213 Detail, Node003,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:42:58.213 Detail, Node003,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:00.363 Detail, Node004,   Received: 0x01, 0x0c, 0x00, 0x04, 0x00, 0x04, 0x06, 0x31, 0x05, 0x04, 0x22, 0x01, 0x0b, 0xed
+2019-05-07 23:43:00.364 Detail, 
+2019-05-07 23:43:00.364 Info, Node004, ApplicationCommandHandler - Unhandled Command Class 0x31
+2019-05-07 23:43:01.863 Info, HttpThread Exiting. No Transfers in timeout period
+2019-05-07 23:43:07.364 Detail, Node003,   Received: 0x01, 0x07, 0x00, 0x13, 0x0b, 0x01, 0x03, 0x93, 0x71
+2019-05-07 23:43:07.364 Detail, Node003,   ZW_SEND_DATA Request with callback ID 0x0b received (expected 0x0b)
+2019-05-07 23:43:07.364 Info, Node003, WARNING: ZW_SEND_DATA failed. No ACK received - device may be asleep.
+2019-05-07 23:43:07.364 Info, Node003,   Node 3 has been marked as asleep
+2019-05-07 23:43:07.364 Info, Node003, Node not responding - moving QueryStageComplete command to Wake-Up queue
+2019-05-07 23:43:07.365 Detail, Node003, Notification: Notification - NoOperation
+2019-05-07 23:43:07.365 Detail, Node003, Notification: Notification - Node Asleep
+2019-05-07 23:43:07.365 Detail, 
+2019-05-07 23:43:07.365 Info, Node004, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=4): 0x01, 0x04, 0x00, 0x41, 0x04, 0xbe
+2019-05-07 23:43:07.365 Info, Node004, Encrypted Flag is 0
+2019-05-07 23:43:07.368 Detail, Node004,   Received: 0x01, 0x09, 0x01, 0x41, 0xd3, 0x9c, 0x01, 0x04, 0x10, 0x01, 0xed
+2019-05-07 23:43:07.368 Detail, 
+2019-05-07 23:43:07.368 Info, Node004, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:43:07.368 Info, Node004,   Protocol Info for Node 4:
+2019-05-07 23:43:07.368 Info, Node004,     Listening     = true
+2019-05-07 23:43:07.368 Info, Node004,     Beaming       = true
+2019-05-07 23:43:07.368 Info, Node004,     Routing       = true
+2019-05-07 23:43:07.368 Info, Node004,     Max Baud Rate = 40000
+2019-05-07 23:43:07.369 Info, Node004,     Version       = 4
+2019-05-07 23:43:07.369 Info, Node004,     Security      = false
+2019-05-07 23:43:07.369 Info, Node004,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:43:07.369 Info, Node004,   Generic device Class  (0x10) - Binary Switch
+2019-05-07 23:43:07.369 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:43:07.369 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 37 (COMMAND_CLASS_SWITCH_BINARY)
+2019-05-07 23:43:07.369 Info, Node004,   Specific device class (0x01) - Binary Power Switch
+2019-05-07 23:43:07.369 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 39 (COMMAND_CLASS_SWITCH_ALL)
+2019-05-07 23:43:07.370 Info, Node004,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:43:07.370 Info, Node004,   Mandatory Command Classes for Node 4:
+2019-05-07 23:43:07.370 Info, Node004,     COMMAND_CLASS_BASIC
+2019-05-07 23:43:07.370 Info, Node004,     COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:43:07.370 Info, Node004,     COMMAND_CLASS_SWITCH_ALL
+2019-05-07 23:43:07.370 Info, Node004,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:43:07.370 Info, Node004,   Mandatory Command Classes controlled by Node 4:
+2019-05-07 23:43:07.370 Info, Node004,     None
+2019-05-07 23:43:07.370 Detail, Node156,   Expected reply was received
+2019-05-07 23:43:07.370 Detail, Node156,   Message transaction complete
+2019-05-07 23:43:07.370 Detail, 
+2019-05-07 23:43:07.371 Detail, Node004, Removing current message
+2019-05-07 23:43:07.371 Detail, Node004, Notification: NodeProtocolInfo
+2019-05-07 23:43:07.371 Detail, Node004, Notification: ValueAdded
+2019-05-07 23:43:07.371 Detail, Node004, Notification: ValueAdded
+2019-05-07 23:43:07.371 Detail, Node004, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:43:07.371 Detail, Node004, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:43:07.371 Detail, Node004, QueryStage_Probe
+2019-05-07 23:43:07.371 Info, Node004, NoOperation::Set - Routing=true
+2019-05-07 23:43:07.371 Detail, Node004, Queuing (NoOp) NoOperation_Set (Node=4): 0x01, 0x09, 0x00, 0x13, 0x04, 0x02, 0x00, 0x00, 0x25, 0x0c, 0xca
+2019-05-07 23:43:07.372 Detail, Node004, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:07.372 Detail, 
+2019-05-07 23:43:07.372 Info, Node004, Sending (NoOp) message (Callback ID=0x0c, Expected Reply=0x13) - NoOperation_Set (Node=4): 0x01, 0x09, 0x00, 0x13, 0x04, 0x02, 0x00, 0x00, 0x25, 0x0c, 0xca
+2019-05-07 23:43:07.372 Info, Node004, Encrypted Flag is 0
+2019-05-07 23:43:07.381 Detail, Node004,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:07.381 Detail, Node004,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:07.396 Detail, Node004,   Received: 0x01, 0x07, 0x00, 0x13, 0x0c, 0x00, 0x00, 0x02, 0xe5
+2019-05-07 23:43:07.396 Detail, Node004,   ZW_SEND_DATA Request with callback ID 0x0c received (expected 0x0c)
+2019-05-07 23:43:07.396 Info, Node004, Request RTT 24 Average Request RTT 24
+2019-05-07 23:43:07.396 Detail,   Expected callbackId was received
+2019-05-07 23:43:07.396 Detail,   Expected reply was received
+2019-05-07 23:43:07.396 Detail,   Message transaction complete
+2019-05-07 23:43:07.397 Detail, 
+2019-05-07 23:43:07.397 Detail, Node004, Removing current message
+2019-05-07 23:43:07.397 Detail, Node004, Notification: Notification - NoOperation
+2019-05-07 23:43:07.397 Detail, 
+2019-05-07 23:43:07.397 Info, Node005, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=5): 0x01, 0x04, 0x00, 0x41, 0x05, 0xbf
+2019-05-07 23:43:07.397 Info, Node005, Encrypted Flag is 0
+2019-05-07 23:43:07.400 Detail, Node005,   Received: 0x01, 0x09, 0x01, 0x41, 0xd3, 0x9c, 0x01, 0x04, 0x10, 0x01, 0xed
+2019-05-07 23:43:07.400 Detail, 
+2019-05-07 23:43:07.400 Info, Node005, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:43:07.400 Info, Node005,   Protocol Info for Node 5:
+2019-05-07 23:43:07.400 Info, Node005,     Listening     = true
+2019-05-07 23:43:07.400 Info, Node005,     Beaming       = true
+2019-05-07 23:43:07.400 Info, Node005,     Routing       = true
+2019-05-07 23:43:07.400 Info, Node005,     Max Baud Rate = 40000
+2019-05-07 23:43:07.400 Info, Node005,     Version       = 4
+2019-05-07 23:43:07.401 Info, Node005,     Security      = false
+2019-05-07 23:43:07.401 Info, Node005,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:43:07.401 Info, Node005,   Generic device Class  (0x10) - Binary Switch
+2019-05-07 23:43:07.401 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:43:07.401 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 37 (COMMAND_CLASS_SWITCH_BINARY)
+2019-05-07 23:43:07.401 Info, Node005,   Specific device class (0x01) - Binary Power Switch
+2019-05-07 23:43:07.401 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 39 (COMMAND_CLASS_SWITCH_ALL)
+2019-05-07 23:43:07.401 Info, Node005,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:43:07.401 Info, Node005,   Mandatory Command Classes for Node 5:
+2019-05-07 23:43:07.402 Info, Node005,     COMMAND_CLASS_BASIC
+2019-05-07 23:43:07.402 Info, Node005,     COMMAND_CLASS_SWITCH_BINARY
+2019-05-07 23:43:07.402 Info, Node005,     COMMAND_CLASS_SWITCH_ALL
+2019-05-07 23:43:07.402 Info, Node005,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:43:07.402 Info, Node005,   Mandatory Command Classes controlled by Node 5:
+2019-05-07 23:43:07.402 Info, Node005,     None
+2019-05-07 23:43:07.402 Detail, Node156,   Expected reply was received
+2019-05-07 23:43:07.402 Detail, Node156,   Message transaction complete
+2019-05-07 23:43:07.402 Detail, 
+2019-05-07 23:43:07.402 Detail, Node005, Removing current message
+2019-05-07 23:43:07.403 Detail, Node005, Notification: NodeProtocolInfo
+2019-05-07 23:43:07.403 Detail, Node005, Notification: ValueAdded
+2019-05-07 23:43:07.403 Detail, Node005, Notification: ValueAdded
+2019-05-07 23:43:07.403 Detail, Node005, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:43:07.403 Detail, Node005, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:43:07.403 Detail, Node005, QueryStage_Probe
+2019-05-07 23:43:07.403 Info, Node005, NoOperation::Set - Routing=true
+2019-05-07 23:43:07.403 Detail, Node005, Queuing (NoOp) NoOperation_Set (Node=5): 0x01, 0x09, 0x00, 0x13, 0x05, 0x02, 0x00, 0x00, 0x25, 0x0d, 0xca
+2019-05-07 23:43:07.403 Detail, Node005, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:07.403 Detail, 
+2019-05-07 23:43:07.404 Info, Node005, Sending (NoOp) message (Callback ID=0x0d, Expected Reply=0x13) - NoOperation_Set (Node=5): 0x01, 0x09, 0x00, 0x13, 0x05, 0x02, 0x00, 0x00, 0x25, 0x0d, 0xca
+2019-05-07 23:43:07.404 Info, Node005, Encrypted Flag is 0
+2019-05-07 23:43:07.411 Detail, Node005,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:07.412 Detail, Node005,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:07.428 Detail, Node005,   Received: 0x01, 0x07, 0x00, 0x13, 0x0d, 0x00, 0x00, 0x02, 0xe4
+2019-05-07 23:43:07.428 Detail, Node005,   ZW_SEND_DATA Request with callback ID 0x0d received (expected 0x0d)
+2019-05-07 23:43:07.428 Info, Node005, Request RTT 24 Average Request RTT 24
+2019-05-07 23:43:07.428 Detail,   Expected callbackId was received
+2019-05-07 23:43:07.428 Detail,   Expected reply was received
+2019-05-07 23:43:07.428 Detail,   Message transaction complete
+2019-05-07 23:43:07.429 Detail, 
+2019-05-07 23:43:07.429 Detail, Node005, Removing current message
+2019-05-07 23:43:07.429 Detail, Node005, Notification: Notification - NoOperation
+2019-05-07 23:43:07.429 Detail, 
+2019-05-07 23:43:07.429 Info, Node006, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=6): 0x01, 0x04, 0x00, 0x41, 0x06, 0xbc
+2019-05-07 23:43:07.429 Info, Node006, Encrypted Flag is 0
+2019-05-07 23:43:07.432 Detail, Node006,   Received: 0x01, 0x09, 0x01, 0x41, 0x53, 0xdc, 0x01, 0x04, 0x08, 0x06, 0x32
+2019-05-07 23:43:07.432 Detail, 
+2019-05-07 23:43:07.432 Info, Node006, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:43:07.432 Info, Node006,   Protocol Info for Node 6:
+2019-05-07 23:43:07.432 Info, Node006,     Listening     = false
+2019-05-07 23:43:07.432 Info, Node006,     Frequent      = true
+2019-05-07 23:43:07.432 Info, Node006,     Beaming       = true
+2019-05-07 23:43:07.433 Info, Node006,     Routing       = true
+2019-05-07 23:43:07.433 Info, Node006,     Max Baud Rate = 40000
+2019-05-07 23:43:07.433 Info, Node006,     Version       = 4
+2019-05-07 23:43:07.433 Info, Node006,     Security      = false
+2019-05-07 23:43:07.433 Info, Node006,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:43:07.433 Info, Node006,   Generic device Class  (0x08) - Thermostat
+2019-05-07 23:43:07.433 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:43:07.433 Info, Node006,   Specific device class (0x06) - General Thermostat V2
+2019-05-07 23:43:07.433 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 64 (COMMAND_CLASS_THERMOSTAT_MODE)
+2019-05-07 23:43:07.433 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 67 (COMMAND_CLASS_THERMOSTAT_SETPOINT)
+2019-05-07 23:43:07.434 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 134 (COMMAND_CLASS_VERSION)
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:07.434 Info, Node006,   Mandatory Command Classes for Node 6:
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_BASIC
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_THERMOSTAT_SETPOINT
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:43:07.434 Info, Node006,     COMMAND_CLASS_VERSION
+2019-05-07 23:43:07.434 Info, Node006,   Mandatory Command Classes controlled by Node 6:
+2019-05-07 23:43:07.434 Info, Node006,     None
+2019-05-07 23:43:07.435 Detail, Node220,   Expected reply was received
+2019-05-07 23:43:07.435 Detail, Node220,   Message transaction complete
+2019-05-07 23:43:07.435 Detail, 
+2019-05-07 23:43:07.435 Detail, Node006, Removing current message
+2019-05-07 23:43:07.435 Detail, Node006, Notification: NodeProtocolInfo
+2019-05-07 23:43:07.435 Detail, Node006, Notification: ValueAdded
+2019-05-07 23:43:07.435 Detail, Node006, Notification: ValueAdded
+2019-05-07 23:43:07.435 Detail, Node006, Notification: ValueAdded
+2019-05-07 23:43:07.435 Detail, Node006, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:43:07.436 Detail, Node006, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:43:07.436 Detail, Node006, QueryStage_Probe
+2019-05-07 23:43:07.436 Info, Node006, NoOperation::Set - Routing=true
+2019-05-07 23:43:07.436 Detail, Node006, Queuing (NoOp) NoOperation_Set (Node=6): 0x01, 0x09, 0x00, 0x13, 0x06, 0x02, 0x00, 0x00, 0x25, 0x0e, 0xca
+2019-05-07 23:43:07.436 Detail, Node006, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:07.436 Detail, 
+2019-05-07 23:43:07.436 Info, Node006, Sending (NoOp) message (Callback ID=0x0e, Expected Reply=0x13) - NoOperation_Set (Node=6): 0x01, 0x09, 0x00, 0x13, 0x06, 0x02, 0x00, 0x00, 0x25, 0x0e, 0xca
+2019-05-07 23:43:07.436 Info, Node006, Encrypted Flag is 0
+2019-05-07 23:43:07.445 Detail, Node006,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:07.445 Detail, Node006,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:08.680 Detail, Node006,   Received: 0x01, 0x07, 0x00, 0x13, 0x0e, 0x00, 0x00, 0x7c, 0x99
+2019-05-07 23:43:08.680 Detail, Node006,   ZW_SEND_DATA Request with callback ID 0x0e received (expected 0x0e)
+2019-05-07 23:43:08.680 Info, Node006, Request RTT 1243 Average Request RTT 1243
+2019-05-07 23:43:08.680 Detail,   Expected callbackId was received
+2019-05-07 23:43:08.681 Detail,   Expected reply was received
+2019-05-07 23:43:08.681 Detail,   Message transaction complete
+2019-05-07 23:43:08.681 Detail, 
+2019-05-07 23:43:08.681 Detail, Node006, Removing current message
+2019-05-07 23:43:08.681 Detail, Node006, Notification: Notification - NoOperation
+2019-05-07 23:43:08.681 Detail, 
+2019-05-07 23:43:08.681 Info, Node007, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=7): 0x01, 0x04, 0x00, 0x41, 0x07, 0xbd
+2019-05-07 23:43:08.681 Info, Node007, Encrypted Flag is 0
+2019-05-07 23:43:08.684 Detail, Node007,   Received: 0x01, 0x09, 0x01, 0x41, 0x53, 0xdc, 0x01, 0x04, 0x08, 0x06, 0x32
+2019-05-07 23:43:08.684 Detail, 
+2019-05-07 23:43:08.684 Info, Node007, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:43:08.684 Info, Node007,   Protocol Info for Node 7:
+2019-05-07 23:43:08.684 Info, Node007,     Listening     = false
+2019-05-07 23:43:08.684 Info, Node007,     Frequent      = true
+2019-05-07 23:43:08.685 Info, Node007,     Beaming       = true
+2019-05-07 23:43:08.685 Info, Node007,     Routing       = true
+2019-05-07 23:43:08.685 Info, Node007,     Max Baud Rate = 40000
+2019-05-07 23:43:08.685 Info, Node007,     Version       = 4
+2019-05-07 23:43:08.685 Info, Node007,     Security      = false
+2019-05-07 23:43:08.685 Info, Node007,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:43:08.685 Info, Node007,   Generic device Class  (0x08) - Thermostat
+2019-05-07 23:43:08.685 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:43:08.685 Info, Node007,   Specific device class (0x06) - General Thermostat V2
+2019-05-07 23:43:08.685 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 64 (COMMAND_CLASS_THERMOSTAT_MODE)
+2019-05-07 23:43:08.686 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 67 (COMMAND_CLASS_THERMOSTAT_SETPOINT)
+2019-05-07 23:43:08.686 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 134 (COMMAND_CLASS_VERSION)
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:08.686 Info, Node007,   Mandatory Command Classes for Node 7:
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_BASIC
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_THERMOSTAT_SETPOINT
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:43:08.686 Info, Node007,     COMMAND_CLASS_VERSION
+2019-05-07 23:43:08.686 Info, Node007,   Mandatory Command Classes controlled by Node 7:
+2019-05-07 23:43:08.687 Info, Node007,     None
+2019-05-07 23:43:08.687 Detail, Node220,   Expected reply was received
+2019-05-07 23:43:08.687 Detail, Node220,   Message transaction complete
+2019-05-07 23:43:08.687 Detail, 
+2019-05-07 23:43:08.687 Detail, Node007, Removing current message
+2019-05-07 23:43:08.688 Detail, Node007, Notification: NodeProtocolInfo
+2019-05-07 23:43:08.688 Detail, Node007, Notification: ValueAdded
+2019-05-07 23:43:08.688 Detail, Node007, Notification: ValueAdded
+2019-05-07 23:43:08.688 Detail, Node007, Notification: ValueAdded
+2019-05-07 23:43:08.688 Detail, Node007, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:43:08.688 Detail, Node007, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:43:08.688 Detail, Node007, QueryStage_Probe
+2019-05-07 23:43:08.688 Info, Node007, NoOperation::Set - Routing=true
+2019-05-07 23:43:08.689 Detail, Node007, Queuing (NoOp) NoOperation_Set (Node=7): 0x01, 0x09, 0x00, 0x13, 0x07, 0x02, 0x00, 0x00, 0x25, 0x0f, 0xca
+2019-05-07 23:43:08.689 Detail, Node007, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:08.689 Detail, 
+2019-05-07 23:43:08.689 Info, Node007, Sending (NoOp) message (Callback ID=0x0f, Expected Reply=0x13) - NoOperation_Set (Node=7): 0x01, 0x09, 0x00, 0x13, 0x07, 0x02, 0x00, 0x00, 0x25, 0x0f, 0xca
+2019-05-07 23:43:08.689 Info, Node007, Encrypted Flag is 0
+2019-05-07 23:43:08.697 Detail, Node007,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:08.698 Detail, Node007,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:10.008 Detail, Node007,   Received: 0x01, 0x07, 0x00, 0x13, 0x0f, 0x00, 0x00, 0x84, 0x60
+2019-05-07 23:43:10.009 Detail, Node007,   ZW_SEND_DATA Request with callback ID 0x0f received (expected 0x0f)
+2019-05-07 23:43:10.009 Info, Node007, Request RTT 1320 Average Request RTT 1320
+2019-05-07 23:43:10.009 Detail,   Expected callbackId was received
+2019-05-07 23:43:10.009 Detail,   Expected reply was received
+2019-05-07 23:43:10.009 Detail,   Message transaction complete
+2019-05-07 23:43:10.009 Detail, 
+2019-05-07 23:43:10.009 Detail, Node007, Removing current message
+2019-05-07 23:43:10.009 Detail, Node007, Notification: Notification - NoOperation
+2019-05-07 23:43:10.009 Detail, 
+2019-05-07 23:43:10.010 Info, Node008, Sending (Query) message (Callback ID=0x00, Expected Reply=0x41) - Get Node Protocol Info (Node=8): 0x01, 0x04, 0x00, 0x41, 0x08, 0xb2
+2019-05-07 23:43:10.010 Info, Node008, Encrypted Flag is 0
+2019-05-07 23:43:10.012 Detail, Node008,   Received: 0x01, 0x09, 0x01, 0x41, 0x53, 0xdc, 0x01, 0x04, 0x08, 0x06, 0x32
+2019-05-07 23:43:10.013 Detail, 
+2019-05-07 23:43:10.013 Info, Node008, Received reply to FUNC_ID_ZW_GET_NODE_PROTOCOL_INFO
+2019-05-07 23:43:10.013 Info, Node008,   Protocol Info for Node 8:
+2019-05-07 23:43:10.013 Info, Node008,     Listening     = false
+2019-05-07 23:43:10.013 Info, Node008,     Frequent      = true
+2019-05-07 23:43:10.013 Info, Node008,     Beaming       = true
+2019-05-07 23:43:10.013 Info, Node008,     Routing       = true
+2019-05-07 23:43:10.013 Info, Node008,     Max Baud Rate = 40000
+2019-05-07 23:43:10.013 Info, Node008,     Version       = 4
+2019-05-07 23:43:10.013 Info, Node008,     Security      = false
+2019-05-07 23:43:10.013 Info, Node008,   Basic device class    (0x04) - Routing Slave
+2019-05-07 23:43:10.014 Info, Node008,   Generic device Class  (0x08) - Thermostat
+2019-05-07 23:43:10.014 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 32 (COMMAND_CLASS_BASIC)
+2019-05-07 23:43:10.014 Info, Node008,   Specific device class (0x06) - General Thermostat V2
+2019-05-07 23:43:10.014 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 64 (COMMAND_CLASS_THERMOSTAT_MODE)
+2019-05-07 23:43:10.014 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 67 (COMMAND_CLASS_THERMOSTAT_SETPOINT)
+2019-05-07 23:43:10.014 Warning, Localization::SetupCommandClass: Localization Warning: No Entry for CommandClass - CC: 134 (COMMAND_CLASS_VERSION)
+2019-05-07 23:43:10.014 Info, Node008,     COMMAND_CLASS_BASIC will be mapped to COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:10.014 Info, Node008,   Mandatory Command Classes for Node 8:
+2019-05-07 23:43:10.015 Info, Node008,     COMMAND_CLASS_BASIC
+2019-05-07 23:43:10.015 Info, Node008,     COMMAND_CLASS_THERMOSTAT_MODE
+2019-05-07 23:43:10.015 Info, Node008,     COMMAND_CLASS_THERMOSTAT_SETPOINT
+2019-05-07 23:43:10.015 Info, Node008,     COMMAND_CLASS_MANUFACTURER_SPECIFIC
+2019-05-07 23:43:10.016 Info, Node008,     COMMAND_CLASS_VERSION
+2019-05-07 23:43:10.016 Info, Node008,   Mandatory Command Classes controlled by Node 8:
+2019-05-07 23:43:10.016 Info, Node008,     None
+2019-05-07 23:43:10.016 Detail, Node220,   Expected reply was received
+2019-05-07 23:43:10.016 Detail, Node220,   Message transaction complete
+2019-05-07 23:43:10.016 Detail, 
+2019-05-07 23:43:10.016 Detail, Node008, Removing current message
+2019-05-07 23:43:10.016 Detail, Node008, Notification: NodeProtocolInfo
+2019-05-07 23:43:10.017 Detail, Node008, Notification: ValueAdded
+2019-05-07 23:43:10.017 Detail, Node008, Notification: ValueAdded
+2019-05-07 23:43:10.017 Detail, Node008, Notification: ValueAdded
+2019-05-07 23:43:10.017 Detail, Node008, Query Stage Complete (ProtocolInfo)
+2019-05-07 23:43:10.018 Detail, Node008, AdvanceQueries queryPending=0 queryRetries=0 queryStage=Probe live=1
+2019-05-07 23:43:10.018 Detail, Node008, QueryStage_Probe
+2019-05-07 23:43:10.018 Info, Node008, NoOperation::Set - Routing=true
+2019-05-07 23:43:10.018 Detail, Node008, Queuing (NoOp) NoOperation_Set (Node=8): 0x01, 0x09, 0x00, 0x13, 0x08, 0x02, 0x00, 0x00, 0x25, 0x10, 0xda
+2019-05-07 23:43:10.019 Detail, Node008, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:10.019 Detail, 
+2019-05-07 23:43:10.019 Info, Node008, Sending (NoOp) message (Callback ID=0x10, Expected Reply=0x13) - NoOperation_Set (Node=8): 0x01, 0x09, 0x00, 0x13, 0x08, 0x02, 0x00, 0x00, 0x25, 0x10, 0xda
+2019-05-07 23:43:10.019 Info, Node008, Encrypted Flag is 0
+2019-05-07 23:43:10.027 Detail, Node008,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:10.033 Detail, Node008,   ZW_SEND_DATA delivered to Z-Wave stack
+2019-05-07 23:43:11.278 Detail, Node008,   Received: 0x01, 0x07, 0x00, 0x13, 0x10, 0x00, 0x00, 0x7e, 0x85
+2019-05-07 23:43:11.278 Detail, Node008,   ZW_SEND_DATA Request with callback ID 0x10 received (expected 0x10)
+2019-05-07 23:43:11.279 Info, Node008, Request RTT 1258 Average Request RTT 1258
+2019-05-07 23:43:11.279 Detail,   Expected callbackId was received
+2019-05-07 23:43:11.279 Detail,   Expected reply was received
+2019-05-07 23:43:11.279 Detail,   Message transaction complete
+2019-05-07 23:43:11.279 Detail, 
+2019-05-07 23:43:11.280 Detail, Node008, Removing current message
+2019-05-07 23:43:11.280 Detail, Node008, Notification: Notification - NoOperation
+2019-05-07 23:43:11.280 Detail, Node002, Query Stage Complete (Probe)
+2019-05-07 23:43:11.280 Detail, Node002, AdvanceQueries queryPending=0 queryRetries=1 queryStage=Probe live=1
+2019-05-07 23:43:11.281 Detail, Node002, QueryStage_Probe
+2019-05-07 23:43:11.281 Info, Node002, NoOperation::Set - Routing=true
+2019-05-07 23:43:11.281 Detail, Node002, Queuing (NoOp) NoOperation_Set (Node=2): 0x01, 0x09, 0x00, 0x13, 0x02, 0x02, 0x00, 0x00, 0x25, 0x11, 0xd1
+2019-05-07 23:43:11.281 Detail, Node002, Queuing (Query) Query Stage Complete (Probe)
+2019-05-07 23:43:11.282 Detail, 
+2019-05-07 23:43:11.282 Info, Node002, Sending (NoOp) message (Callback ID=0x11, Expected Reply=0x13) - NoOperation_Set (Node=2): 0x01, 0x09, 0x00, 0x13, 0x02, 0x02, 0x00, 0x00, 0x25, 0x11, 0xd1
+2019-05-07 23:43:11.282 Info, Node002, Encrypted Flag is 0
+2019-05-07 23:43:11.293 Detail, Node002,   Received: 0x01, 0x04, 0x01, 0x13, 0x01, 0xe8
+2019-05-07 23:43:11.294 Detail, Node002,   ZW_SEND_DATA delivered to Z-Wave stack

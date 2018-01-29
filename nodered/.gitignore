@@ -1,2 +1,3 @@
-flows.json
-
+.gitignore
+*flows.json*
+*node-red-data/*

@@ -1,17 +1,26 @@
 version: '3'
 services:
   nodered:
-    image: nodered/node-red-docker:rpi
+    build: .
+#    image: nodered/node-red-docker:rpi
+    container_name: "nodered"
+#    privileged: true
     network_mode: "host"
 #    logging:
 #        driver: "json-file"
     ports:
-       - 1884:1880
+       - 1880:1880
     volumes:
-       - ./flows.json:/data/flows.json
-       - ./package.json:/data/package.json
+       - /etc/timezone:/etc/timezone:ro
+       - /etc/localtime:/etc/localtime:ro
+       - ./node-red-data:/data
+#       - ./package.json:/usr/src/node-red/package.json
 #       - /media/pi/ext250/nodered_data:/data 
-       - ./run_in_docker.sh:/usr/src/node-red/run_in_docker.sh
-    entrypoint: ["./run_in_docker.sh"]
+#       - ./run_in_docker.sh:/usr/src/node-red/run_in_docker.sh
+#    entrypoint: ["./run_in_docker.sh"]
     environment:
         TZ : "Europe/Warsaw"
+    devices:
+       - "/dev/ttyACM1:/dev/ttyACM0"
+#    stdin_open: true
+#    tty: true

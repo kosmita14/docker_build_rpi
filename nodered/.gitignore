@@ -1,2 +1,5 @@
-flows.json
-
+.gitignore
+*flows.json*
+*node-red-data/*.txt
+*node-red-data/*ozwcache*
+*node-red-data/.*

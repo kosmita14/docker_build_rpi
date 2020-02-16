@@ -1,0 +1,52 @@
+version: '3'
+services:
+  nodered:
+#    build: .
+    image: nodered2_nodered:stable
+    container_name: "nodered"
+    restart: unless-stopped
+#    privileged: true
+    network_mode: "host"
+#    logging:
+#        driver: "json-file"
+    ports:
+       - 1884:1884
+    volumes:
+       - /etc/timezone:/etc/timezone:ro
+       - /etc/localtime:/etc/localtime:ro
+       - ./node-red-data:/data
+#       - ./package.json:/usr/src/node-red/package.json
+#       - /media/pi/ext250/nodered_data:/data 
+#       - ./run_in_docker.sh:/usr/src/node-red/run_in_docker.sh
+#    entrypoint: ["./run_in_docker.sh"]
+    environment:
+        TZ : "Europe/Warsaw"
+    devices:
+       - "/dev/ttyACM0:/dev/ttyACM0"
+#    stdin_open: true
+#    tty: true
+
+
+
+  zwavetomq:
+    build: ./zwavetomq/.
+    container_name: "zwave2mq"
+    restart: unless-stopped
+#    privileged: true
+    network_mode: "host"
+#    logging:
+#        driver: "json-file"
+    ports:
+       - 1881:1881
+    volumes:
+       - /etc/timezone:/etc/timezone:ro
+       - /etc/localtime:/etc/localtime:ro
+       - ./zwavetomq-data:/data
+    environment:
+        TZ : "Europe/Warsaw"
+#    devices:
+#       - "/dev/ttyACM0:/dev/ttyACM0"
+#    stdin_open: true
+#    tty: true
+
+

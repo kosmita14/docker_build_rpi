@@ -1,8 +1,9 @@
 version: '3'
 services:
-  mynetdata:
+  netdata:
     image: firehol/netdata:armv7hf
     container_name: "netdata"
+    hostname: malina.local
     volumes:
         - "/etc/timezone:/etc/timezone:ro"
         - "/etc/localtime:/etc/localtime:ro"
@@ -11,6 +12,8 @@ services:
         - /var/run/docker.sock:/var/run/docker.sock
 #        - ./netdata.conf:/etc/netdata/netdata.conf
     network_mode: "host"
+    security_opt:
+        - apparmor:unconfined
     logging:
             driver: "${LOGGING_DRIVER:-json-file}"
     privileged: true
@@ -18,3 +21,6 @@ services:
         - "19999:19999"
     cap_add:
         - SYS_PTRACE
+
+
+

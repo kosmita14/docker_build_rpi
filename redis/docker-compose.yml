@@ -6,6 +6,7 @@ services:
     logging:
         driver: "${LOGGING_DRIVER:-json-file}"
     network_mode: "host"
+    restart: unless-stopped
     ports:
         - 6379:6379
 #    volumes:

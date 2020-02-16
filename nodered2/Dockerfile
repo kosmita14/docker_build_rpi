@@ -1,5 +1,4 @@
-#FROM nodered/node-red-docker:rpi
-FROM arm32v7/node:10-slim
+FROM arm32v7/node:10-buster-slim
 
 USER root
 

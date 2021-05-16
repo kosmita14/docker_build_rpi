@@ -1,55 +1,50 @@
-FROM arm32v7/node:10-buster-slim
+FROM arm32v7/node:10-stretch-slim
 
 USER root
 
-#RUN apt-get update && apt-get upgrade && apt-get install -y git make g++ python net-tools
 RUN apt-get update && apt-get install -y git make g++ python net-tools
 
-#RUN apt-get update && apt-get install -y libudev-dev
-
-#RUN wget https://github.com/OpenZWave/open-zwave/archive/v1.6.tar.gz && tar zxvf v1.6.tar.gz
 RUN git clone https://github.com/OpenZWave/open-zwave.git
 WORKDIR /open-zwave
-#WORKDIR /open-zwave-1.6
 RUN make && make install && ldconfig
 
-#RUN ls -ltra /usr/local/etc
-
-#RUN apt-get update && apt-get install -y \
-#    libopenzwave1.5-dev
-
-# Home directory for Node-RED application source code.
 RUN mkdir -p /usr/src/node-red
 
-# User data directory, contains flows, config and nodes.
 RUN mkdir /data
 
 WORKDIR /usr/src/node-red
 
-# Add node-red user so we aren't running as root.
 RUN useradd --home-dir /usr/src/node-red --no-create-home node-red \
     && chown -R node-red:node-red /data \
     && chown -R node-red:node-red /usr/src/node-red
 
 USER node-red
 
-# package.json contains Node-RED NPM module and node dependencies
 COPY package.json /usr/src/node-red/
 RUN npm install
 
-# User configuration directory volume
 VOLUME ["/data"]
 EXPOSE 1880
 
-# Environment variable holding file path for flows configuration
 ENV FLOWS=flows.json
 ENV NODE_PATH=/usr/src/node-red/node_modules:/data/node_modules
 
-RUN npm install node-red-contrib-slack google-home-notify google-tts-api node-red-contrib-actionflows node-red-contrib-amqp node-red-contrib-chromecast node-red-contrib-google-home-notify \
-	node-red-contrib-google-tts node-red-contrib-ibm-watson-iot node-red-contrib-play-audio node-red-contrib-redis node-red-contrib-slack node-red-node-darksky node-red-node-ledborg \
-	node-red-node-pi-sense-hat node-red-node-ping node-red-node-pushbullet node-red-node-random node-red-node-serialport node-red-node-smooth openzwave-shared node-red-contrib-openzwave \
-	node-red-contrib-harmony node-red-node-email node-red-node-feedparser node-red-node-sentiment node-red-node-email
+WORKDIR /usr/src/node-red/
+RUN git clone https://github.com/OpenZWave/node-red-contrib-openzwave.git
+WORKDIR /usr/src/node-red/node-red-contrib-openzwave
 
+RUN sed -i "s|1.6.2|1.7.2|g" ./package.json
+
+RUN sed -i "s|=5.1|=5.17.0|g" ./package.json
+
+WORKDIR /usr/src/node-red
+RUN npm install ./node-red-contrib-openzwave
+
+RUN npm install node-red-contrib-slack node-red-contrib-amqp \
+	node-red-contrib-redis node-red-node-darksky \
+	node-red-node-ping node-red-node-pushbullet node-red-node-random node-red-node-serialport node-red-node-smooth \
+	node-red-contrib-harmony node-red-node-email node-red-node-feedparser node-red-node-sentiment node-red-contrib-cast \
+        node-red-contrib-arp node-red-contrib-function-npm
 
 #CMD ["npm", "start", "--", "--safe", "--userDir", "/data"]
 CMD ["npm", "start", "--", "--userDir", "/data"]
